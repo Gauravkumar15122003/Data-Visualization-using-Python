@@ -37,7 +37,7 @@ Each folder includes code examples, and the `Pic/` folder contains sample output
 ### 🔹 Box Plot
 ![Box Plot](Pic/Box_Plot.png)
 
-### 🔹 Stack Plot -----------
+### 🔹 Stack Plot
 ![Stack Plot](Pic/Stack_Plot.png)
 
 ### 🔹 Stem Plot
@@ -50,7 +50,7 @@ Each folder includes code examples, and the `Pic/` folder contains sample output
 ![Pie Chart](Pic/Sub_Plot.png)
 
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repo:
    ```bash
    git clone https://github.com/your-username/Python-Data-Visualization.git

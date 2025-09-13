@@ -1,11 +1,11 @@
-# Python Data Visualization 📊
+# Python Data Visualization 
 
 This repository contains Python scripts that demonstrate different types of plots using **Matplotlib**.  
 Each folder includes code examples, and the `Pic/` folder contains sample output images of the plots.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - `1. Bar Plot/` → Bar chart examples
 - `2. Scatter Plot/` → Scatter plot examples
 - `3. Histogram Plot/` → Histogram examples
@@ -22,24 +22,33 @@ Each folder includes code examples, and the `Pic/` folder contains sample output
 
 ## 📊 Example Plots
 
-### 🔹 Bar Plot
-![Bar Plot](Pic/bar_plot.png)
+### 🔹 Fill Plot
+![Fill Plot](Pic/Fill_Plot.png)
 
 ### 🔹 Scatter Plot
-![Scatter Plot](Pic/scatter_plot.png)
+![Scatter Plot](Pic/Scatter_Plot.png)
 
 ### 🔹 Histogram
 ![Histogram](Pic/Histogram.png)
 
 ### 🔹 Pie Chart
-![Pie Chart](Pic/pie_plot.png)
+![Pie Chart](Pic/Pie_Chart.png)
 
 ### 🔹 Box Plot
-![Box Plot](Pic/box_plot.png)
+![Box Plot](Pic/Box_Plot.png)
 
-*(You can add more plots here as you upload images in the `Pic/` folder.)*
+### 🔹 Stack Plot -----------
+![Stack Plot](Pic/Stack_Plot.png)
 
----
+### 🔹 Stem Plot
+![Stem Plot](Pic/Stem_Plot.png)
+
+### 🔹 Step Plot
+![Step Plot](Pic/Step_Plot.png)
+
+### 🔹 Sub Plot
+![Pie Chart](Pic/Sub_Plot.png)
+
 
 ## 🚀 How to Run
 1. Clone this repo:
